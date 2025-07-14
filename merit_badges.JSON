@@ -1,0 +1,57 @@
+{
+  "First Aid": {
+    "summary": "Learn how to respond to medical emergencies and treat injuries.",
+    "requirements": [
+      "Demonstrate knowledge of first aid requirements from Tenderfoot through First Class.",
+      "Explain how to get emergency help.",
+      "Define triage and its use.",
+      "Demonstrate CPR and AED use.",
+      "Complete a first aid scenario."
+    ],
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/First_Aid.pdf"
+  },
+  "Camping": {
+    "summary": "Gain experience in planning and participating in camping activities.",
+    "requirements": [
+      "Camp 20 nights under the sky.",
+      "Discuss tent care and maintenance.",
+      "Plan and cook meals outdoors.",
+      "Demonstrate Leave No Trace principles.",
+      "Identify gear needed for safe camping."
+    ],
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Camping.pdf"
+  },
+  "Citizenship in the Nation": {
+    "summary": "Understand the responsibilities of being a citizen in the United States.",
+    "requirements": [
+      "Explain the meaning of citizenship in the nation.",
+      "Visit a federal facility and report on your visit.",
+      "Watch national news and discuss current events.",
+      "Explain the three branches of government.",
+      "Name your representatives in government."
+    ],
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Citizenship_in_the_Nation.pdf"
+  },
+  "Environmental Science": {
+    "summary": "Study the environment and learn how to protect it through observation and conservation.",
+    "requirements": [
+      "Conduct experiments on air, water, and pollution.",
+      "Create a timeline of environmental history.",
+      "Explore endangered species and habitat protection.",
+      "Complete a conservation project.",
+      "Discuss global environmental challenges."
+    ],
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Environmental_Science.pdf"
+  },
+  "Personal Fitness": {
+    "summary": "Understand how to improve and maintain physical health.",
+    "requirements": [
+      "Complete a physical exam and record progress.",
+      "Set personal health and fitness goals.",
+      "Demonstrate flexibility, strength, and endurance exercises.",
+      "Discuss substance abuse and its effects.",
+      "Track fitness improvement over 12 weeks."
+    ],
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Personal_Fitness.pdf"
+  }
+}
