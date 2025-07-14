@@ -1,1520 +1,554 @@
 {
-  "Merit Badge 1": {
-    "summary": "This is a placeholder summary for Merit Badge 1.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 1",
-      "Requirement 2 for Merit Badge 1",
-      "Requirement 3 for Merit Badge 1",
-      "Requirement 4 for Merit Badge 1",
-      "Requirement 5 for Merit Badge 1"
-    ],
-    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
+  "First Aid": {
+    "summary": "Learn how to provide emergency care and first aid in various situations.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/First_Aid.pdf"
   },
-  "Merit Badge 2": {
-    "summary": "This is a placeholder summary for Merit Badge 2.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 2",
-      "Requirement 2 for Merit Badge 2",
-      "Requirement 3 for Merit Badge 2",
-      "Requirement 4 for Merit Badge 2",
-      "Requirement 5 for Merit Badge 2"
-    ],
-    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
+  "Camping": {
+    "summary": "Develop skills and experience in planning and conducting camping trips.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Camping.pdf"
   },
-  "Merit Badge 3": {
-    "summary": "This is a placeholder summary for Merit Badge 3.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 3",
-      "Requirement 2 for Merit Badge 3",
-      "Requirement 3 for Merit Badge 3",
-      "Requirement 4 for Merit Badge 3",
-      "Requirement 5 for Merit Badge 3"
-    ],
-    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
+  "Citizenship in the Nation": {
+    "summary": "Understand the responsibilities of being a U.S. citizen and how the government functions.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Citizenship_in_the_Nation.pdf"
   },
-  "Merit Badge 4": {
-    "summary": "This is a placeholder summary for Merit Badge 4.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 4",
-      "Requirement 2 for Merit Badge 4",
-      "Requirement 3 for Merit Badge 4",
-      "Requirement 4 for Merit Badge 4",
-      "Requirement 5 for Merit Badge 4"
-    ],
-    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
+  "Environmental Science": {
+    "summary": "Learn about ecology, pollution, and conservation through research and experiments.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Environmental_Science.pdf"
   },
-  "Merit Badge 5": {
-    "summary": "This is a placeholder summary for Merit Badge 5.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 5",
-      "Requirement 2 for Merit Badge 5",
-      "Requirement 3 for Merit Badge 5",
-      "Requirement 4 for Merit Badge 5",
-      "Requirement 5 for Merit Badge 5"
-    ],
-    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
+  "Personal Fitness": {
+    "summary": "Understand health, fitness, and personal well-being through goal-setting and exercise.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Personal_Fitness.pdf"
   },
-  "Merit Badge 6": {
-    "summary": "This is a placeholder summary for Merit Badge 6.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 6",
-      "Requirement 2 for Merit Badge 6",
-      "Requirement 3 for Merit Badge 6",
-      "Requirement 4 for Merit Badge 6",
-      "Requirement 5 for Merit Badge 6"
-    ],
-    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
+  "Citizenship in the World": {
+    "summary": "Explore global citizenship and learn how international relations affect you.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Citizenship_in_the_World.pdf"
   },
-  "Merit Badge 7": {
-    "summary": "This is a placeholder summary for Merit Badge 7.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 7",
-      "Requirement 2 for Merit Badge 7",
-      "Requirement 3 for Merit Badge 7",
-      "Requirement 4 for Merit Badge 7",
-      "Requirement 5 for Merit Badge 7"
-    ],
-    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
+  "Family Life": {
+    "summary": "Understand family dynamics, responsibilities, and how to contribute at home.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Family_Life.pdf"
   },
-  "Merit Badge 8": {
-    "summary": "This is a placeholder summary for Merit Badge 8.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 8",
-      "Requirement 2 for Merit Badge 8",
-      "Requirement 3 for Merit Badge 8",
-      "Requirement 4 for Merit Badge 8",
-      "Requirement 5 for Merit Badge 8"
-    ],
-    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
+  "Communication": {
+    "summary": "Learn various forms of communication, including public speaking and media.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Communication.pdf"
   },
   "Merit Badge 9": {
-    "summary": "This is a placeholder summary for Merit Badge 9.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 9",
-      "Requirement 2 for Merit Badge 9",
-      "Requirement 3 for Merit Badge 9",
-      "Requirement 4 for Merit Badge 9",
-      "Requirement 5 for Merit Badge 9"
-    ],
+    "summary": "Summary for Merit Badge 9.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 10": {
-    "summary": "This is a placeholder summary for Merit Badge 10.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 10",
-      "Requirement 2 for Merit Badge 10",
-      "Requirement 3 for Merit Badge 10",
-      "Requirement 4 for Merit Badge 10",
-      "Requirement 5 for Merit Badge 10"
-    ],
+    "summary": "Summary for Merit Badge 10.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 11": {
-    "summary": "This is a placeholder summary for Merit Badge 11.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 11",
-      "Requirement 2 for Merit Badge 11",
-      "Requirement 3 for Merit Badge 11",
-      "Requirement 4 for Merit Badge 11",
-      "Requirement 5 for Merit Badge 11"
-    ],
+    "summary": "Summary for Merit Badge 11.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 12": {
-    "summary": "This is a placeholder summary for Merit Badge 12.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 12",
-      "Requirement 2 for Merit Badge 12",
-      "Requirement 3 for Merit Badge 12",
-      "Requirement 4 for Merit Badge 12",
-      "Requirement 5 for Merit Badge 12"
-    ],
+    "summary": "Summary for Merit Badge 12.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 13": {
-    "summary": "This is a placeholder summary for Merit Badge 13.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 13",
-      "Requirement 2 for Merit Badge 13",
-      "Requirement 3 for Merit Badge 13",
-      "Requirement 4 for Merit Badge 13",
-      "Requirement 5 for Merit Badge 13"
-    ],
+    "summary": "Summary for Merit Badge 13.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 14": {
-    "summary": "This is a placeholder summary for Merit Badge 14.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 14",
-      "Requirement 2 for Merit Badge 14",
-      "Requirement 3 for Merit Badge 14",
-      "Requirement 4 for Merit Badge 14",
-      "Requirement 5 for Merit Badge 14"
-    ],
+    "summary": "Summary for Merit Badge 14.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 15": {
-    "summary": "This is a placeholder summary for Merit Badge 15.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 15",
-      "Requirement 2 for Merit Badge 15",
-      "Requirement 3 for Merit Badge 15",
-      "Requirement 4 for Merit Badge 15",
-      "Requirement 5 for Merit Badge 15"
-    ],
+    "summary": "Summary for Merit Badge 15.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 16": {
-    "summary": "This is a placeholder summary for Merit Badge 16.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 16",
-      "Requirement 2 for Merit Badge 16",
-      "Requirement 3 for Merit Badge 16",
-      "Requirement 4 for Merit Badge 16",
-      "Requirement 5 for Merit Badge 16"
-    ],
+    "summary": "Summary for Merit Badge 16.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 17": {
-    "summary": "This is a placeholder summary for Merit Badge 17.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 17",
-      "Requirement 2 for Merit Badge 17",
-      "Requirement 3 for Merit Badge 17",
-      "Requirement 4 for Merit Badge 17",
-      "Requirement 5 for Merit Badge 17"
-    ],
+    "summary": "Summary for Merit Badge 17.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 18": {
-    "summary": "This is a placeholder summary for Merit Badge 18.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 18",
-      "Requirement 2 for Merit Badge 18",
-      "Requirement 3 for Merit Badge 18",
-      "Requirement 4 for Merit Badge 18",
-      "Requirement 5 for Merit Badge 18"
-    ],
+    "summary": "Summary for Merit Badge 18.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 19": {
-    "summary": "This is a placeholder summary for Merit Badge 19.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 19",
-      "Requirement 2 for Merit Badge 19",
-      "Requirement 3 for Merit Badge 19",
-      "Requirement 4 for Merit Badge 19",
-      "Requirement 5 for Merit Badge 19"
-    ],
+    "summary": "Summary for Merit Badge 19.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 20": {
-    "summary": "This is a placeholder summary for Merit Badge 20.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 20",
-      "Requirement 2 for Merit Badge 20",
-      "Requirement 3 for Merit Badge 20",
-      "Requirement 4 for Merit Badge 20",
-      "Requirement 5 for Merit Badge 20"
-    ],
+    "summary": "Summary for Merit Badge 20.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 21": {
-    "summary": "This is a placeholder summary for Merit Badge 21.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 21",
-      "Requirement 2 for Merit Badge 21",
-      "Requirement 3 for Merit Badge 21",
-      "Requirement 4 for Merit Badge 21",
-      "Requirement 5 for Merit Badge 21"
-    ],
+    "summary": "Summary for Merit Badge 21.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 22": {
-    "summary": "This is a placeholder summary for Merit Badge 22.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 22",
-      "Requirement 2 for Merit Badge 22",
-      "Requirement 3 for Merit Badge 22",
-      "Requirement 4 for Merit Badge 22",
-      "Requirement 5 for Merit Badge 22"
-    ],
+    "summary": "Summary for Merit Badge 22.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 23": {
-    "summary": "This is a placeholder summary for Merit Badge 23.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 23",
-      "Requirement 2 for Merit Badge 23",
-      "Requirement 3 for Merit Badge 23",
-      "Requirement 4 for Merit Badge 23",
-      "Requirement 5 for Merit Badge 23"
-    ],
+    "summary": "Summary for Merit Badge 23.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 24": {
-    "summary": "This is a placeholder summary for Merit Badge 24.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 24",
-      "Requirement 2 for Merit Badge 24",
-      "Requirement 3 for Merit Badge 24",
-      "Requirement 4 for Merit Badge 24",
-      "Requirement 5 for Merit Badge 24"
-    ],
+    "summary": "Summary for Merit Badge 24.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 25": {
-    "summary": "This is a placeholder summary for Merit Badge 25.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 25",
-      "Requirement 2 for Merit Badge 25",
-      "Requirement 3 for Merit Badge 25",
-      "Requirement 4 for Merit Badge 25",
-      "Requirement 5 for Merit Badge 25"
-    ],
+    "summary": "Summary for Merit Badge 25.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 26": {
-    "summary": "This is a placeholder summary for Merit Badge 26.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 26",
-      "Requirement 2 for Merit Badge 26",
-      "Requirement 3 for Merit Badge 26",
-      "Requirement 4 for Merit Badge 26",
-      "Requirement 5 for Merit Badge 26"
-    ],
+    "summary": "Summary for Merit Badge 26.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 27": {
-    "summary": "This is a placeholder summary for Merit Badge 27.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 27",
-      "Requirement 2 for Merit Badge 27",
-      "Requirement 3 for Merit Badge 27",
-      "Requirement 4 for Merit Badge 27",
-      "Requirement 5 for Merit Badge 27"
-    ],
+    "summary": "Summary for Merit Badge 27.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 28": {
-    "summary": "This is a placeholder summary for Merit Badge 28.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 28",
-      "Requirement 2 for Merit Badge 28",
-      "Requirement 3 for Merit Badge 28",
-      "Requirement 4 for Merit Badge 28",
-      "Requirement 5 for Merit Badge 28"
-    ],
+    "summary": "Summary for Merit Badge 28.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 29": {
-    "summary": "This is a placeholder summary for Merit Badge 29.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 29",
-      "Requirement 2 for Merit Badge 29",
-      "Requirement 3 for Merit Badge 29",
-      "Requirement 4 for Merit Badge 29",
-      "Requirement 5 for Merit Badge 29"
-    ],
+    "summary": "Summary for Merit Badge 29.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 30": {
-    "summary": "This is a placeholder summary for Merit Badge 30.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 30",
-      "Requirement 2 for Merit Badge 30",
-      "Requirement 3 for Merit Badge 30",
-      "Requirement 4 for Merit Badge 30",
-      "Requirement 5 for Merit Badge 30"
-    ],
+    "summary": "Summary for Merit Badge 30.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 31": {
-    "summary": "This is a placeholder summary for Merit Badge 31.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 31",
-      "Requirement 2 for Merit Badge 31",
-      "Requirement 3 for Merit Badge 31",
-      "Requirement 4 for Merit Badge 31",
-      "Requirement 5 for Merit Badge 31"
-    ],
+    "summary": "Summary for Merit Badge 31.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 32": {
-    "summary": "This is a placeholder summary for Merit Badge 32.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 32",
-      "Requirement 2 for Merit Badge 32",
-      "Requirement 3 for Merit Badge 32",
-      "Requirement 4 for Merit Badge 32",
-      "Requirement 5 for Merit Badge 32"
-    ],
+    "summary": "Summary for Merit Badge 32.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 33": {
-    "summary": "This is a placeholder summary for Merit Badge 33.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 33",
-      "Requirement 2 for Merit Badge 33",
-      "Requirement 3 for Merit Badge 33",
-      "Requirement 4 for Merit Badge 33",
-      "Requirement 5 for Merit Badge 33"
-    ],
+    "summary": "Summary for Merit Badge 33.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 34": {
-    "summary": "This is a placeholder summary for Merit Badge 34.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 34",
-      "Requirement 2 for Merit Badge 34",
-      "Requirement 3 for Merit Badge 34",
-      "Requirement 4 for Merit Badge 34",
-      "Requirement 5 for Merit Badge 34"
-    ],
+    "summary": "Summary for Merit Badge 34.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 35": {
-    "summary": "This is a placeholder summary for Merit Badge 35.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 35",
-      "Requirement 2 for Merit Badge 35",
-      "Requirement 3 for Merit Badge 35",
-      "Requirement 4 for Merit Badge 35",
-      "Requirement 5 for Merit Badge 35"
-    ],
+    "summary": "Summary for Merit Badge 35.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 36": {
-    "summary": "This is a placeholder summary for Merit Badge 36.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 36",
-      "Requirement 2 for Merit Badge 36",
-      "Requirement 3 for Merit Badge 36",
-      "Requirement 4 for Merit Badge 36",
-      "Requirement 5 for Merit Badge 36"
-    ],
+    "summary": "Summary for Merit Badge 36.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 37": {
-    "summary": "This is a placeholder summary for Merit Badge 37.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 37",
-      "Requirement 2 for Merit Badge 37",
-      "Requirement 3 for Merit Badge 37",
-      "Requirement 4 for Merit Badge 37",
-      "Requirement 5 for Merit Badge 37"
-    ],
+    "summary": "Summary for Merit Badge 37.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 38": {
-    "summary": "This is a placeholder summary for Merit Badge 38.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 38",
-      "Requirement 2 for Merit Badge 38",
-      "Requirement 3 for Merit Badge 38",
-      "Requirement 4 for Merit Badge 38",
-      "Requirement 5 for Merit Badge 38"
-    ],
+    "summary": "Summary for Merit Badge 38.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 39": {
-    "summary": "This is a placeholder summary for Merit Badge 39.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 39",
-      "Requirement 2 for Merit Badge 39",
-      "Requirement 3 for Merit Badge 39",
-      "Requirement 4 for Merit Badge 39",
-      "Requirement 5 for Merit Badge 39"
-    ],
+    "summary": "Summary for Merit Badge 39.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 40": {
-    "summary": "This is a placeholder summary for Merit Badge 40.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 40",
-      "Requirement 2 for Merit Badge 40",
-      "Requirement 3 for Merit Badge 40",
-      "Requirement 4 for Merit Badge 40",
-      "Requirement 5 for Merit Badge 40"
-    ],
+    "summary": "Summary for Merit Badge 40.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 41": {
-    "summary": "This is a placeholder summary for Merit Badge 41.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 41",
-      "Requirement 2 for Merit Badge 41",
-      "Requirement 3 for Merit Badge 41",
-      "Requirement 4 for Merit Badge 41",
-      "Requirement 5 for Merit Badge 41"
-    ],
+    "summary": "Summary for Merit Badge 41.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 42": {
-    "summary": "This is a placeholder summary for Merit Badge 42.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 42",
-      "Requirement 2 for Merit Badge 42",
-      "Requirement 3 for Merit Badge 42",
-      "Requirement 4 for Merit Badge 42",
-      "Requirement 5 for Merit Badge 42"
-    ],
+    "summary": "Summary for Merit Badge 42.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 43": {
-    "summary": "This is a placeholder summary for Merit Badge 43.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 43",
-      "Requirement 2 for Merit Badge 43",
-      "Requirement 3 for Merit Badge 43",
-      "Requirement 4 for Merit Badge 43",
-      "Requirement 5 for Merit Badge 43"
-    ],
+    "summary": "Summary for Merit Badge 43.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 44": {
-    "summary": "This is a placeholder summary for Merit Badge 44.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 44",
-      "Requirement 2 for Merit Badge 44",
-      "Requirement 3 for Merit Badge 44",
-      "Requirement 4 for Merit Badge 44",
-      "Requirement 5 for Merit Badge 44"
-    ],
+    "summary": "Summary for Merit Badge 44.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 45": {
-    "summary": "This is a placeholder summary for Merit Badge 45.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 45",
-      "Requirement 2 for Merit Badge 45",
-      "Requirement 3 for Merit Badge 45",
-      "Requirement 4 for Merit Badge 45",
-      "Requirement 5 for Merit Badge 45"
-    ],
+    "summary": "Summary for Merit Badge 45.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 46": {
-    "summary": "This is a placeholder summary for Merit Badge 46.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 46",
-      "Requirement 2 for Merit Badge 46",
-      "Requirement 3 for Merit Badge 46",
-      "Requirement 4 for Merit Badge 46",
-      "Requirement 5 for Merit Badge 46"
-    ],
+    "summary": "Summary for Merit Badge 46.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 47": {
-    "summary": "This is a placeholder summary for Merit Badge 47.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 47",
-      "Requirement 2 for Merit Badge 47",
-      "Requirement 3 for Merit Badge 47",
-      "Requirement 4 for Merit Badge 47",
-      "Requirement 5 for Merit Badge 47"
-    ],
+    "summary": "Summary for Merit Badge 47.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 48": {
-    "summary": "This is a placeholder summary for Merit Badge 48.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 48",
-      "Requirement 2 for Merit Badge 48",
-      "Requirement 3 for Merit Badge 48",
-      "Requirement 4 for Merit Badge 48",
-      "Requirement 5 for Merit Badge 48"
-    ],
+    "summary": "Summary for Merit Badge 48.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 49": {
-    "summary": "This is a placeholder summary for Merit Badge 49.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 49",
-      "Requirement 2 for Merit Badge 49",
-      "Requirement 3 for Merit Badge 49",
-      "Requirement 4 for Merit Badge 49",
-      "Requirement 5 for Merit Badge 49"
-    ],
+    "summary": "Summary for Merit Badge 49.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 50": {
-    "summary": "This is a placeholder summary for Merit Badge 50.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 50",
-      "Requirement 2 for Merit Badge 50",
-      "Requirement 3 for Merit Badge 50",
-      "Requirement 4 for Merit Badge 50",
-      "Requirement 5 for Merit Badge 50"
-    ],
+    "summary": "Summary for Merit Badge 50.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 51": {
-    "summary": "This is a placeholder summary for Merit Badge 51.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 51",
-      "Requirement 2 for Merit Badge 51",
-      "Requirement 3 for Merit Badge 51",
-      "Requirement 4 for Merit Badge 51",
-      "Requirement 5 for Merit Badge 51"
-    ],
+    "summary": "Summary for Merit Badge 51.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 52": {
-    "summary": "This is a placeholder summary for Merit Badge 52.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 52",
-      "Requirement 2 for Merit Badge 52",
-      "Requirement 3 for Merit Badge 52",
-      "Requirement 4 for Merit Badge 52",
-      "Requirement 5 for Merit Badge 52"
-    ],
+    "summary": "Summary for Merit Badge 52.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 53": {
-    "summary": "This is a placeholder summary for Merit Badge 53.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 53",
-      "Requirement 2 for Merit Badge 53",
-      "Requirement 3 for Merit Badge 53",
-      "Requirement 4 for Merit Badge 53",
-      "Requirement 5 for Merit Badge 53"
-    ],
+    "summary": "Summary for Merit Badge 53.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 54": {
-    "summary": "This is a placeholder summary for Merit Badge 54.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 54",
-      "Requirement 2 for Merit Badge 54",
-      "Requirement 3 for Merit Badge 54",
-      "Requirement 4 for Merit Badge 54",
-      "Requirement 5 for Merit Badge 54"
-    ],
+    "summary": "Summary for Merit Badge 54.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 55": {
-    "summary": "This is a placeholder summary for Merit Badge 55.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 55",
-      "Requirement 2 for Merit Badge 55",
-      "Requirement 3 for Merit Badge 55",
-      "Requirement 4 for Merit Badge 55",
-      "Requirement 5 for Merit Badge 55"
-    ],
+    "summary": "Summary for Merit Badge 55.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 56": {
-    "summary": "This is a placeholder summary for Merit Badge 56.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 56",
-      "Requirement 2 for Merit Badge 56",
-      "Requirement 3 for Merit Badge 56",
-      "Requirement 4 for Merit Badge 56",
-      "Requirement 5 for Merit Badge 56"
-    ],
+    "summary": "Summary for Merit Badge 56.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 57": {
-    "summary": "This is a placeholder summary for Merit Badge 57.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 57",
-      "Requirement 2 for Merit Badge 57",
-      "Requirement 3 for Merit Badge 57",
-      "Requirement 4 for Merit Badge 57",
-      "Requirement 5 for Merit Badge 57"
-    ],
+    "summary": "Summary for Merit Badge 57.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 58": {
-    "summary": "This is a placeholder summary for Merit Badge 58.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 58",
-      "Requirement 2 for Merit Badge 58",
-      "Requirement 3 for Merit Badge 58",
-      "Requirement 4 for Merit Badge 58",
-      "Requirement 5 for Merit Badge 58"
-    ],
+    "summary": "Summary for Merit Badge 58.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 59": {
-    "summary": "This is a placeholder summary for Merit Badge 59.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 59",
-      "Requirement 2 for Merit Badge 59",
-      "Requirement 3 for Merit Badge 59",
-      "Requirement 4 for Merit Badge 59",
-      "Requirement 5 for Merit Badge 59"
-    ],
+    "summary": "Summary for Merit Badge 59.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 60": {
-    "summary": "This is a placeholder summary for Merit Badge 60.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 60",
-      "Requirement 2 for Merit Badge 60",
-      "Requirement 3 for Merit Badge 60",
-      "Requirement 4 for Merit Badge 60",
-      "Requirement 5 for Merit Badge 60"
-    ],
+    "summary": "Summary for Merit Badge 60.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 61": {
-    "summary": "This is a placeholder summary for Merit Badge 61.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 61",
-      "Requirement 2 for Merit Badge 61",
-      "Requirement 3 for Merit Badge 61",
-      "Requirement 4 for Merit Badge 61",
-      "Requirement 5 for Merit Badge 61"
-    ],
+    "summary": "Summary for Merit Badge 61.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 62": {
-    "summary": "This is a placeholder summary for Merit Badge 62.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 62",
-      "Requirement 2 for Merit Badge 62",
-      "Requirement 3 for Merit Badge 62",
-      "Requirement 4 for Merit Badge 62",
-      "Requirement 5 for Merit Badge 62"
-    ],
+    "summary": "Summary for Merit Badge 62.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 63": {
-    "summary": "This is a placeholder summary for Merit Badge 63.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 63",
-      "Requirement 2 for Merit Badge 63",
-      "Requirement 3 for Merit Badge 63",
-      "Requirement 4 for Merit Badge 63",
-      "Requirement 5 for Merit Badge 63"
-    ],
+    "summary": "Summary for Merit Badge 63.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 64": {
-    "summary": "This is a placeholder summary for Merit Badge 64.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 64",
-      "Requirement 2 for Merit Badge 64",
-      "Requirement 3 for Merit Badge 64",
-      "Requirement 4 for Merit Badge 64",
-      "Requirement 5 for Merit Badge 64"
-    ],
+    "summary": "Summary for Merit Badge 64.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 65": {
-    "summary": "This is a placeholder summary for Merit Badge 65.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 65",
-      "Requirement 2 for Merit Badge 65",
-      "Requirement 3 for Merit Badge 65",
-      "Requirement 4 for Merit Badge 65",
-      "Requirement 5 for Merit Badge 65"
-    ],
+    "summary": "Summary for Merit Badge 65.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 66": {
-    "summary": "This is a placeholder summary for Merit Badge 66.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 66",
-      "Requirement 2 for Merit Badge 66",
-      "Requirement 3 for Merit Badge 66",
-      "Requirement 4 for Merit Badge 66",
-      "Requirement 5 for Merit Badge 66"
-    ],
+    "summary": "Summary for Merit Badge 66.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 67": {
-    "summary": "This is a placeholder summary for Merit Badge 67.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 67",
-      "Requirement 2 for Merit Badge 67",
-      "Requirement 3 for Merit Badge 67",
-      "Requirement 4 for Merit Badge 67",
-      "Requirement 5 for Merit Badge 67"
-    ],
+    "summary": "Summary for Merit Badge 67.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 68": {
-    "summary": "This is a placeholder summary for Merit Badge 68.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 68",
-      "Requirement 2 for Merit Badge 68",
-      "Requirement 3 for Merit Badge 68",
-      "Requirement 4 for Merit Badge 68",
-      "Requirement 5 for Merit Badge 68"
-    ],
+    "summary": "Summary for Merit Badge 68.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 69": {
-    "summary": "This is a placeholder summary for Merit Badge 69.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 69",
-      "Requirement 2 for Merit Badge 69",
-      "Requirement 3 for Merit Badge 69",
-      "Requirement 4 for Merit Badge 69",
-      "Requirement 5 for Merit Badge 69"
-    ],
+    "summary": "Summary for Merit Badge 69.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 70": {
-    "summary": "This is a placeholder summary for Merit Badge 70.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 70",
-      "Requirement 2 for Merit Badge 70",
-      "Requirement 3 for Merit Badge 70",
-      "Requirement 4 for Merit Badge 70",
-      "Requirement 5 for Merit Badge 70"
-    ],
+    "summary": "Summary for Merit Badge 70.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 71": {
-    "summary": "This is a placeholder summary for Merit Badge 71.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 71",
-      "Requirement 2 for Merit Badge 71",
-      "Requirement 3 for Merit Badge 71",
-      "Requirement 4 for Merit Badge 71",
-      "Requirement 5 for Merit Badge 71"
-    ],
+    "summary": "Summary for Merit Badge 71.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 72": {
-    "summary": "This is a placeholder summary for Merit Badge 72.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 72",
-      "Requirement 2 for Merit Badge 72",
-      "Requirement 3 for Merit Badge 72",
-      "Requirement 4 for Merit Badge 72",
-      "Requirement 5 for Merit Badge 72"
-    ],
+    "summary": "Summary for Merit Badge 72.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 73": {
-    "summary": "This is a placeholder summary for Merit Badge 73.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 73",
-      "Requirement 2 for Merit Badge 73",
-      "Requirement 3 for Merit Badge 73",
-      "Requirement 4 for Merit Badge 73",
-      "Requirement 5 for Merit Badge 73"
-    ],
+    "summary": "Summary for Merit Badge 73.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 74": {
-    "summary": "This is a placeholder summary for Merit Badge 74.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 74",
-      "Requirement 2 for Merit Badge 74",
-      "Requirement 3 for Merit Badge 74",
-      "Requirement 4 for Merit Badge 74",
-      "Requirement 5 for Merit Badge 74"
-    ],
+    "summary": "Summary for Merit Badge 74.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 75": {
-    "summary": "This is a placeholder summary for Merit Badge 75.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 75",
-      "Requirement 2 for Merit Badge 75",
-      "Requirement 3 for Merit Badge 75",
-      "Requirement 4 for Merit Badge 75",
-      "Requirement 5 for Merit Badge 75"
-    ],
+    "summary": "Summary for Merit Badge 75.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 76": {
-    "summary": "This is a placeholder summary for Merit Badge 76.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 76",
-      "Requirement 2 for Merit Badge 76",
-      "Requirement 3 for Merit Badge 76",
-      "Requirement 4 for Merit Badge 76",
-      "Requirement 5 for Merit Badge 76"
-    ],
+    "summary": "Summary for Merit Badge 76.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 77": {
-    "summary": "This is a placeholder summary for Merit Badge 77.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 77",
-      "Requirement 2 for Merit Badge 77",
-      "Requirement 3 for Merit Badge 77",
-      "Requirement 4 for Merit Badge 77",
-      "Requirement 5 for Merit Badge 77"
-    ],
+    "summary": "Summary for Merit Badge 77.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 78": {
-    "summary": "This is a placeholder summary for Merit Badge 78.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 78",
-      "Requirement 2 for Merit Badge 78",
-      "Requirement 3 for Merit Badge 78",
-      "Requirement 4 for Merit Badge 78",
-      "Requirement 5 for Merit Badge 78"
-    ],
+    "summary": "Summary for Merit Badge 78.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 79": {
-    "summary": "This is a placeholder summary for Merit Badge 79.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 79",
-      "Requirement 2 for Merit Badge 79",
-      "Requirement 3 for Merit Badge 79",
-      "Requirement 4 for Merit Badge 79",
-      "Requirement 5 for Merit Badge 79"
-    ],
+    "summary": "Summary for Merit Badge 79.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 80": {
-    "summary": "This is a placeholder summary for Merit Badge 80.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 80",
-      "Requirement 2 for Merit Badge 80",
-      "Requirement 3 for Merit Badge 80",
-      "Requirement 4 for Merit Badge 80",
-      "Requirement 5 for Merit Badge 80"
-    ],
+    "summary": "Summary for Merit Badge 80.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 81": {
-    "summary": "This is a placeholder summary for Merit Badge 81.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 81",
-      "Requirement 2 for Merit Badge 81",
-      "Requirement 3 for Merit Badge 81",
-      "Requirement 4 for Merit Badge 81",
-      "Requirement 5 for Merit Badge 81"
-    ],
+    "summary": "Summary for Merit Badge 81.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 82": {
-    "summary": "This is a placeholder summary for Merit Badge 82.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 82",
-      "Requirement 2 for Merit Badge 82",
-      "Requirement 3 for Merit Badge 82",
-      "Requirement 4 for Merit Badge 82",
-      "Requirement 5 for Merit Badge 82"
-    ],
+    "summary": "Summary for Merit Badge 82.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 83": {
-    "summary": "This is a placeholder summary for Merit Badge 83.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 83",
-      "Requirement 2 for Merit Badge 83",
-      "Requirement 3 for Merit Badge 83",
-      "Requirement 4 for Merit Badge 83",
-      "Requirement 5 for Merit Badge 83"
-    ],
+    "summary": "Summary for Merit Badge 83.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 84": {
-    "summary": "This is a placeholder summary for Merit Badge 84.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 84",
-      "Requirement 2 for Merit Badge 84",
-      "Requirement 3 for Merit Badge 84",
-      "Requirement 4 for Merit Badge 84",
-      "Requirement 5 for Merit Badge 84"
-    ],
+    "summary": "Summary for Merit Badge 84.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 85": {
-    "summary": "This is a placeholder summary for Merit Badge 85.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 85",
-      "Requirement 2 for Merit Badge 85",
-      "Requirement 3 for Merit Badge 85",
-      "Requirement 4 for Merit Badge 85",
-      "Requirement 5 for Merit Badge 85"
-    ],
+    "summary": "Summary for Merit Badge 85.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 86": {
-    "summary": "This is a placeholder summary for Merit Badge 86.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 86",
-      "Requirement 2 for Merit Badge 86",
-      "Requirement 3 for Merit Badge 86",
-      "Requirement 4 for Merit Badge 86",
-      "Requirement 5 for Merit Badge 86"
-    ],
+    "summary": "Summary for Merit Badge 86.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 87": {
-    "summary": "This is a placeholder summary for Merit Badge 87.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 87",
-      "Requirement 2 for Merit Badge 87",
-      "Requirement 3 for Merit Badge 87",
-      "Requirement 4 for Merit Badge 87",
-      "Requirement 5 for Merit Badge 87"
-    ],
+    "summary": "Summary for Merit Badge 87.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 88": {
-    "summary": "This is a placeholder summary for Merit Badge 88.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 88",
-      "Requirement 2 for Merit Badge 88",
-      "Requirement 3 for Merit Badge 88",
-      "Requirement 4 for Merit Badge 88",
-      "Requirement 5 for Merit Badge 88"
-    ],
+    "summary": "Summary for Merit Badge 88.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 89": {
-    "summary": "This is a placeholder summary for Merit Badge 89.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 89",
-      "Requirement 2 for Merit Badge 89",
-      "Requirement 3 for Merit Badge 89",
-      "Requirement 4 for Merit Badge 89",
-      "Requirement 5 for Merit Badge 89"
-    ],
+    "summary": "Summary for Merit Badge 89.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 90": {
-    "summary": "This is a placeholder summary for Merit Badge 90.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 90",
-      "Requirement 2 for Merit Badge 90",
-      "Requirement 3 for Merit Badge 90",
-      "Requirement 4 for Merit Badge 90",
-      "Requirement 5 for Merit Badge 90"
-    ],
+    "summary": "Summary for Merit Badge 90.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 91": {
-    "summary": "This is a placeholder summary for Merit Badge 91.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 91",
-      "Requirement 2 for Merit Badge 91",
-      "Requirement 3 for Merit Badge 91",
-      "Requirement 4 for Merit Badge 91",
-      "Requirement 5 for Merit Badge 91"
-    ],
+    "summary": "Summary for Merit Badge 91.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 92": {
-    "summary": "This is a placeholder summary for Merit Badge 92.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 92",
-      "Requirement 2 for Merit Badge 92",
-      "Requirement 3 for Merit Badge 92",
-      "Requirement 4 for Merit Badge 92",
-      "Requirement 5 for Merit Badge 92"
-    ],
+    "summary": "Summary for Merit Badge 92.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 93": {
-    "summary": "This is a placeholder summary for Merit Badge 93.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 93",
-      "Requirement 2 for Merit Badge 93",
-      "Requirement 3 for Merit Badge 93",
-      "Requirement 4 for Merit Badge 93",
-      "Requirement 5 for Merit Badge 93"
-    ],
+    "summary": "Summary for Merit Badge 93.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 94": {
-    "summary": "This is a placeholder summary for Merit Badge 94.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 94",
-      "Requirement 2 for Merit Badge 94",
-      "Requirement 3 for Merit Badge 94",
-      "Requirement 4 for Merit Badge 94",
-      "Requirement 5 for Merit Badge 94"
-    ],
+    "summary": "Summary for Merit Badge 94.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 95": {
-    "summary": "This is a placeholder summary for Merit Badge 95.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 95",
-      "Requirement 2 for Merit Badge 95",
-      "Requirement 3 for Merit Badge 95",
-      "Requirement 4 for Merit Badge 95",
-      "Requirement 5 for Merit Badge 95"
-    ],
+    "summary": "Summary for Merit Badge 95.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 96": {
-    "summary": "This is a placeholder summary for Merit Badge 96.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 96",
-      "Requirement 2 for Merit Badge 96",
-      "Requirement 3 for Merit Badge 96",
-      "Requirement 4 for Merit Badge 96",
-      "Requirement 5 for Merit Badge 96"
-    ],
+    "summary": "Summary for Merit Badge 96.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 97": {
-    "summary": "This is a placeholder summary for Merit Badge 97.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 97",
-      "Requirement 2 for Merit Badge 97",
-      "Requirement 3 for Merit Badge 97",
-      "Requirement 4 for Merit Badge 97",
-      "Requirement 5 for Merit Badge 97"
-    ],
+    "summary": "Summary for Merit Badge 97.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 98": {
-    "summary": "This is a placeholder summary for Merit Badge 98.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 98",
-      "Requirement 2 for Merit Badge 98",
-      "Requirement 3 for Merit Badge 98",
-      "Requirement 4 for Merit Badge 98",
-      "Requirement 5 for Merit Badge 98"
-    ],
+    "summary": "Summary for Merit Badge 98.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 99": {
-    "summary": "This is a placeholder summary for Merit Badge 99.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 99",
-      "Requirement 2 for Merit Badge 99",
-      "Requirement 3 for Merit Badge 99",
-      "Requirement 4 for Merit Badge 99",
-      "Requirement 5 for Merit Badge 99"
-    ],
+    "summary": "Summary for Merit Badge 99.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 100": {
-    "summary": "This is a placeholder summary for Merit Badge 100.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 100",
-      "Requirement 2 for Merit Badge 100",
-      "Requirement 3 for Merit Badge 100",
-      "Requirement 4 for Merit Badge 100",
-      "Requirement 5 for Merit Badge 100"
-    ],
+    "summary": "Summary for Merit Badge 100.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 101": {
-    "summary": "This is a placeholder summary for Merit Badge 101.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 101",
-      "Requirement 2 for Merit Badge 101",
-      "Requirement 3 for Merit Badge 101",
-      "Requirement 4 for Merit Badge 101",
-      "Requirement 5 for Merit Badge 101"
-    ],
+    "summary": "Summary for Merit Badge 101.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 102": {
-    "summary": "This is a placeholder summary for Merit Badge 102.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 102",
-      "Requirement 2 for Merit Badge 102",
-      "Requirement 3 for Merit Badge 102",
-      "Requirement 4 for Merit Badge 102",
-      "Requirement 5 for Merit Badge 102"
-    ],
+    "summary": "Summary for Merit Badge 102.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 103": {
-    "summary": "This is a placeholder summary for Merit Badge 103.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 103",
-      "Requirement 2 for Merit Badge 103",
-      "Requirement 3 for Merit Badge 103",
-      "Requirement 4 for Merit Badge 103",
-      "Requirement 5 for Merit Badge 103"
-    ],
+    "summary": "Summary for Merit Badge 103.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 104": {
-    "summary": "This is a placeholder summary for Merit Badge 104.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 104",
-      "Requirement 2 for Merit Badge 104",
-      "Requirement 3 for Merit Badge 104",
-      "Requirement 4 for Merit Badge 104",
-      "Requirement 5 for Merit Badge 104"
-    ],
+    "summary": "Summary for Merit Badge 104.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 105": {
-    "summary": "This is a placeholder summary for Merit Badge 105.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 105",
-      "Requirement 2 for Merit Badge 105",
-      "Requirement 3 for Merit Badge 105",
-      "Requirement 4 for Merit Badge 105",
-      "Requirement 5 for Merit Badge 105"
-    ],
+    "summary": "Summary for Merit Badge 105.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 106": {
-    "summary": "This is a placeholder summary for Merit Badge 106.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 106",
-      "Requirement 2 for Merit Badge 106",
-      "Requirement 3 for Merit Badge 106",
-      "Requirement 4 for Merit Badge 106",
-      "Requirement 5 for Merit Badge 106"
-    ],
+    "summary": "Summary for Merit Badge 106.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 107": {
-    "summary": "This is a placeholder summary for Merit Badge 107.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 107",
-      "Requirement 2 for Merit Badge 107",
-      "Requirement 3 for Merit Badge 107",
-      "Requirement 4 for Merit Badge 107",
-      "Requirement 5 for Merit Badge 107"
-    ],
+    "summary": "Summary for Merit Badge 107.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 108": {
-    "summary": "This is a placeholder summary for Merit Badge 108.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 108",
-      "Requirement 2 for Merit Badge 108",
-      "Requirement 3 for Merit Badge 108",
-      "Requirement 4 for Merit Badge 108",
-      "Requirement 5 for Merit Badge 108"
-    ],
+    "summary": "Summary for Merit Badge 108.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 109": {
-    "summary": "This is a placeholder summary for Merit Badge 109.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 109",
-      "Requirement 2 for Merit Badge 109",
-      "Requirement 3 for Merit Badge 109",
-      "Requirement 4 for Merit Badge 109",
-      "Requirement 5 for Merit Badge 109"
-    ],
+    "summary": "Summary for Merit Badge 109.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 110": {
-    "summary": "This is a placeholder summary for Merit Badge 110.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 110",
-      "Requirement 2 for Merit Badge 110",
-      "Requirement 3 for Merit Badge 110",
-      "Requirement 4 for Merit Badge 110",
-      "Requirement 5 for Merit Badge 110"
-    ],
+    "summary": "Summary for Merit Badge 110.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 111": {
-    "summary": "This is a placeholder summary for Merit Badge 111.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 111",
-      "Requirement 2 for Merit Badge 111",
-      "Requirement 3 for Merit Badge 111",
-      "Requirement 4 for Merit Badge 111",
-      "Requirement 5 for Merit Badge 111"
-    ],
+    "summary": "Summary for Merit Badge 111.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 112": {
-    "summary": "This is a placeholder summary for Merit Badge 112.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 112",
-      "Requirement 2 for Merit Badge 112",
-      "Requirement 3 for Merit Badge 112",
-      "Requirement 4 for Merit Badge 112",
-      "Requirement 5 for Merit Badge 112"
-    ],
+    "summary": "Summary for Merit Badge 112.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 113": {
-    "summary": "This is a placeholder summary for Merit Badge 113.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 113",
-      "Requirement 2 for Merit Badge 113",
-      "Requirement 3 for Merit Badge 113",
-      "Requirement 4 for Merit Badge 113",
-      "Requirement 5 for Merit Badge 113"
-    ],
+    "summary": "Summary for Merit Badge 113.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 114": {
-    "summary": "This is a placeholder summary for Merit Badge 114.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 114",
-      "Requirement 2 for Merit Badge 114",
-      "Requirement 3 for Merit Badge 114",
-      "Requirement 4 for Merit Badge 114",
-      "Requirement 5 for Merit Badge 114"
-    ],
+    "summary": "Summary for Merit Badge 114.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 115": {
-    "summary": "This is a placeholder summary for Merit Badge 115.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 115",
-      "Requirement 2 for Merit Badge 115",
-      "Requirement 3 for Merit Badge 115",
-      "Requirement 4 for Merit Badge 115",
-      "Requirement 5 for Merit Badge 115"
-    ],
+    "summary": "Summary for Merit Badge 115.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 116": {
-    "summary": "This is a placeholder summary for Merit Badge 116.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 116",
-      "Requirement 2 for Merit Badge 116",
-      "Requirement 3 for Merit Badge 116",
-      "Requirement 4 for Merit Badge 116",
-      "Requirement 5 for Merit Badge 116"
-    ],
+    "summary": "Summary for Merit Badge 116.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 117": {
-    "summary": "This is a placeholder summary for Merit Badge 117.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 117",
-      "Requirement 2 for Merit Badge 117",
-      "Requirement 3 for Merit Badge 117",
-      "Requirement 4 for Merit Badge 117",
-      "Requirement 5 for Merit Badge 117"
-    ],
+    "summary": "Summary for Merit Badge 117.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 118": {
-    "summary": "This is a placeholder summary for Merit Badge 118.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 118",
-      "Requirement 2 for Merit Badge 118",
-      "Requirement 3 for Merit Badge 118",
-      "Requirement 4 for Merit Badge 118",
-      "Requirement 5 for Merit Badge 118"
-    ],
+    "summary": "Summary for Merit Badge 118.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 119": {
-    "summary": "This is a placeholder summary for Merit Badge 119.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 119",
-      "Requirement 2 for Merit Badge 119",
-      "Requirement 3 for Merit Badge 119",
-      "Requirement 4 for Merit Badge 119",
-      "Requirement 5 for Merit Badge 119"
-    ],
+    "summary": "Summary for Merit Badge 119.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 120": {
-    "summary": "This is a placeholder summary for Merit Badge 120.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 120",
-      "Requirement 2 for Merit Badge 120",
-      "Requirement 3 for Merit Badge 120",
-      "Requirement 4 for Merit Badge 120",
-      "Requirement 5 for Merit Badge 120"
-    ],
+    "summary": "Summary for Merit Badge 120.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 121": {
-    "summary": "This is a placeholder summary for Merit Badge 121.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 121",
-      "Requirement 2 for Merit Badge 121",
-      "Requirement 3 for Merit Badge 121",
-      "Requirement 4 for Merit Badge 121",
-      "Requirement 5 for Merit Badge 121"
-    ],
+    "summary": "Summary for Merit Badge 121.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 122": {
-    "summary": "This is a placeholder summary for Merit Badge 122.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 122",
-      "Requirement 2 for Merit Badge 122",
-      "Requirement 3 for Merit Badge 122",
-      "Requirement 4 for Merit Badge 122",
-      "Requirement 5 for Merit Badge 122"
-    ],
+    "summary": "Summary for Merit Badge 122.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 123": {
-    "summary": "This is a placeholder summary for Merit Badge 123.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 123",
-      "Requirement 2 for Merit Badge 123",
-      "Requirement 3 for Merit Badge 123",
-      "Requirement 4 for Merit Badge 123",
-      "Requirement 5 for Merit Badge 123"
-    ],
+    "summary": "Summary for Merit Badge 123.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 124": {
-    "summary": "This is a placeholder summary for Merit Badge 124.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 124",
-      "Requirement 2 for Merit Badge 124",
-      "Requirement 3 for Merit Badge 124",
-      "Requirement 4 for Merit Badge 124",
-      "Requirement 5 for Merit Badge 124"
-    ],
+    "summary": "Summary for Merit Badge 124.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 125": {
-    "summary": "This is a placeholder summary for Merit Badge 125.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 125",
-      "Requirement 2 for Merit Badge 125",
-      "Requirement 3 for Merit Badge 125",
-      "Requirement 4 for Merit Badge 125",
-      "Requirement 5 for Merit Badge 125"
-    ],
+    "summary": "Summary for Merit Badge 125.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 126": {
-    "summary": "This is a placeholder summary for Merit Badge 126.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 126",
-      "Requirement 2 for Merit Badge 126",
-      "Requirement 3 for Merit Badge 126",
-      "Requirement 4 for Merit Badge 126",
-      "Requirement 5 for Merit Badge 126"
-    ],
+    "summary": "Summary for Merit Badge 126.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 127": {
-    "summary": "This is a placeholder summary for Merit Badge 127.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 127",
-      "Requirement 2 for Merit Badge 127",
-      "Requirement 3 for Merit Badge 127",
-      "Requirement 4 for Merit Badge 127",
-      "Requirement 5 for Merit Badge 127"
-    ],
+    "summary": "Summary for Merit Badge 127.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 128": {
-    "summary": "This is a placeholder summary for Merit Badge 128.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 128",
-      "Requirement 2 for Merit Badge 128",
-      "Requirement 3 for Merit Badge 128",
-      "Requirement 4 for Merit Badge 128",
-      "Requirement 5 for Merit Badge 128"
-    ],
+    "summary": "Summary for Merit Badge 128.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 129": {
-    "summary": "This is a placeholder summary for Merit Badge 129.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 129",
-      "Requirement 2 for Merit Badge 129",
-      "Requirement 3 for Merit Badge 129",
-      "Requirement 4 for Merit Badge 129",
-      "Requirement 5 for Merit Badge 129"
-    ],
+    "summary": "Summary for Merit Badge 129.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 130": {
-    "summary": "This is a placeholder summary for Merit Badge 130.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 130",
-      "Requirement 2 for Merit Badge 130",
-      "Requirement 3 for Merit Badge 130",
-      "Requirement 4 for Merit Badge 130",
-      "Requirement 5 for Merit Badge 130"
-    ],
+    "summary": "Summary for Merit Badge 130.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 131": {
-    "summary": "This is a placeholder summary for Merit Badge 131.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 131",
-      "Requirement 2 for Merit Badge 131",
-      "Requirement 3 for Merit Badge 131",
-      "Requirement 4 for Merit Badge 131",
-      "Requirement 5 for Merit Badge 131"
-    ],
+    "summary": "Summary for Merit Badge 131.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 132": {
-    "summary": "This is a placeholder summary for Merit Badge 132.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 132",
-      "Requirement 2 for Merit Badge 132",
-      "Requirement 3 for Merit Badge 132",
-      "Requirement 4 for Merit Badge 132",
-      "Requirement 5 for Merit Badge 132"
-    ],
+    "summary": "Summary for Merit Badge 132.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 133": {
-    "summary": "This is a placeholder summary for Merit Badge 133.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 133",
-      "Requirement 2 for Merit Badge 133",
-      "Requirement 3 for Merit Badge 133",
-      "Requirement 4 for Merit Badge 133",
-      "Requirement 5 for Merit Badge 133"
-    ],
+    "summary": "Summary for Merit Badge 133.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 134": {
-    "summary": "This is a placeholder summary for Merit Badge 134.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 134",
-      "Requirement 2 for Merit Badge 134",
-      "Requirement 3 for Merit Badge 134",
-      "Requirement 4 for Merit Badge 134",
-      "Requirement 5 for Merit Badge 134"
-    ],
+    "summary": "Summary for Merit Badge 134.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 135": {
-    "summary": "This is a placeholder summary for Merit Badge 135.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 135",
-      "Requirement 2 for Merit Badge 135",
-      "Requirement 3 for Merit Badge 135",
-      "Requirement 4 for Merit Badge 135",
-      "Requirement 5 for Merit Badge 135"
-    ],
+    "summary": "Summary for Merit Badge 135.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 136": {
-    "summary": "This is a placeholder summary for Merit Badge 136.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 136",
-      "Requirement 2 for Merit Badge 136",
-      "Requirement 3 for Merit Badge 136",
-      "Requirement 4 for Merit Badge 136",
-      "Requirement 5 for Merit Badge 136"
-    ],
+    "summary": "Summary for Merit Badge 136.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 137": {
-    "summary": "This is a placeholder summary for Merit Badge 137.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 137",
-      "Requirement 2 for Merit Badge 137",
-      "Requirement 3 for Merit Badge 137",
-      "Requirement 4 for Merit Badge 137",
-      "Requirement 5 for Merit Badge 137"
-    ],
+    "summary": "Summary for Merit Badge 137.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   },
   "Merit Badge 138": {
-    "summary": "This is a placeholder summary for Merit Badge 138.",
-    "requirements": [
-      "Requirement 1 for Merit Badge 138",
-      "Requirement 2 for Merit Badge 138",
-      "Requirement 3 for Merit Badge 138",
-      "Requirement 4 for Merit Badge 138",
-      "Requirement 5 for Merit Badge 138"
-    ],
+    "summary": "Summary for Merit Badge 138.",
     "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Example.pdf"
   }
 }
