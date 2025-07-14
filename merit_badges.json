@@ -1,0 +1,526 @@
+{
+  "American Business": {
+    "summary": "Learn and explore the skills and knowledge related to american business.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/American_Business.pdf"
+  },
+  "American Cultures": {
+    "summary": "Learn and explore the skills and knowledge related to american cultures.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/American_Cultures.pdf"
+  },
+  "American Heritage": {
+    "summary": "Learn and explore the skills and knowledge related to american heritage.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/American_Heritage.pdf"
+  },
+  "Animation": {
+    "summary": "Learn and explore the skills and knowledge related to animation.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Animation.pdf"
+  },
+  "Archaeology": {
+    "summary": "Learn and explore the skills and knowledge related to archaeology.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Archaeology.pdf"
+  },
+  "Archery": {
+    "summary": "Learn and explore the skills and knowledge related to archery.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Archery.pdf"
+  },
+  "Architecture": {
+    "summary": "Learn and explore the skills and knowledge related to architecture.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Architecture.pdf"
+  },
+  "Art": {
+    "summary": "Learn and explore the skills and knowledge related to art.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Art.pdf"
+  },
+  "Astronomy": {
+    "summary": "Learn and explore the skills and knowledge related to astronomy.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Astronomy.pdf"
+  },
+  "Athletics": {
+    "summary": "Learn and explore the skills and knowledge related to athletics.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Athletics.pdf"
+  },
+  "Automotive Maintenance": {
+    "summary": "Learn and explore the skills and knowledge related to automotive maintenance.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Automotive_Maintenance.pdf"
+  },
+  "Aviation": {
+    "summary": "Learn and explore the skills and knowledge related to aviation.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Aviation.pdf"
+  },
+  "Backpacking": {
+    "summary": "Learn and explore the skills and knowledge related to backpacking.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Backpacking.pdf"
+  },
+  "Basketry": {
+    "summary": "Learn and explore the skills and knowledge related to basketry.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Basketry.pdf"
+  },
+  "Bird Study": {
+    "summary": "Learn and explore the skills and knowledge related to bird study.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Bird_Study.pdf"
+  },
+  "Bugling": {
+    "summary": "Learn and explore the skills and knowledge related to bugling.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Bugling.pdf"
+  },
+  "Camping": {
+    "summary": "Learn and explore the skills and knowledge related to camping.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Camping.pdf"
+  },
+  "Canoeing": {
+    "summary": "Learn and explore the skills and knowledge related to canoeing.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Canoeing.pdf"
+  },
+  "Chemistry": {
+    "summary": "Learn and explore the skills and knowledge related to chemistry.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Chemistry.pdf"
+  },
+  "Chess": {
+    "summary": "Learn and explore the skills and knowledge related to chess.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Chess.pdf"
+  },
+  "Citizenship in the Community": {
+    "summary": "Learn and explore the skills and knowledge related to citizenship in the community.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Citizenship_in_the_Community.pdf"
+  },
+  "Citizenship in the Nation": {
+    "summary": "Learn and explore the skills and knowledge related to citizenship in the nation.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Citizenship_in_the_Nation.pdf"
+  },
+  "Citizenship in the World": {
+    "summary": "Learn and explore the skills and knowledge related to citizenship in the world.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Citizenship_in_the_World.pdf"
+  },
+  "Climbing": {
+    "summary": "Learn and explore the skills and knowledge related to climbing.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Climbing.pdf"
+  },
+  "Coin Collecting": {
+    "summary": "Learn and explore the skills and knowledge related to coin collecting.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Coin_Collecting.pdf"
+  },
+  "Collections": {
+    "summary": "Learn and explore the skills and knowledge related to collections.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Collections.pdf"
+  },
+  "Communication": {
+    "summary": "Learn and explore the skills and knowledge related to communication.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Communication.pdf"
+  },
+  "Composite Materials": {
+    "summary": "Learn and explore the skills and knowledge related to composite materials.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Composite_Materials.pdf"
+  },
+  "Cooking": {
+    "summary": "Learn and explore the skills and knowledge related to cooking.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Cooking.pdf"
+  },
+  "Cycling": {
+    "summary": "Learn and explore the skills and knowledge related to cycling.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Cycling.pdf"
+  },
+  "Dentistry": {
+    "summary": "Learn and explore the skills and knowledge related to dentistry.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Dentistry.pdf"
+  },
+  "Digital Technology": {
+    "summary": "Learn and explore the skills and knowledge related to digital technology.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Digital_Technology.pdf"
+  },
+  "Disabilities Awareness": {
+    "summary": "Learn and explore the skills and knowledge related to disabilities awareness.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Disabilities_Awareness.pdf"
+  },
+  "Dog Care": {
+    "summary": "Learn and explore the skills and knowledge related to dog care.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Dog_Care.pdf"
+  },
+  "Drafting": {
+    "summary": "Learn and explore the skills and knowledge related to drafting.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Drafting.pdf"
+  },
+  "Electricity": {
+    "summary": "Learn and explore the skills and knowledge related to electricity.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Electricity.pdf"
+  },
+  "Electronics": {
+    "summary": "Learn and explore the skills and knowledge related to electronics.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Electronics.pdf"
+  },
+  "Emergency Preparedness": {
+    "summary": "Learn and explore the skills and knowledge related to emergency preparedness.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Emergency_Preparedness.pdf"
+  },
+  "Energy": {
+    "summary": "Learn and explore the skills and knowledge related to energy.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Energy.pdf"
+  },
+  "Engineering": {
+    "summary": "Learn and explore the skills and knowledge related to engineering.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Engineering.pdf"
+  },
+  "Entrepreneurship": {
+    "summary": "Learn and explore the skills and knowledge related to entrepreneurship.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Entrepreneurship.pdf"
+  },
+  "Environmental Science": {
+    "summary": "Learn and explore the skills and knowledge related to environmental science.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Environmental_Science.pdf"
+  },
+  "Family Life": {
+    "summary": "Learn and explore the skills and knowledge related to family life.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Family_Life.pdf"
+  },
+  "Farm Mechanics": {
+    "summary": "Learn and explore the skills and knowledge related to farm mechanics.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Farm_Mechanics.pdf"
+  },
+  "Fingerprinting": {
+    "summary": "Learn and explore the skills and knowledge related to fingerprinting.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Fingerprinting.pdf"
+  },
+  "Fire Safety": {
+    "summary": "Learn and explore the skills and knowledge related to fire safety.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Fire_Safety.pdf"
+  },
+  "First Aid": {
+    "summary": "Learn and explore the skills and knowledge related to first aid.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/First_Aid.pdf"
+  },
+  "Fish and Wildlife Management": {
+    "summary": "Learn and explore the skills and knowledge related to fish and wildlife management.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Fish_and_Wildlife_Management.pdf"
+  },
+  "Fishing": {
+    "summary": "Learn and explore the skills and knowledge related to fishing.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Fishing.pdf"
+  },
+  "Fly Fishing": {
+    "summary": "Learn and explore the skills and knowledge related to fly fishing.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Fly_Fishing.pdf"
+  },
+  "Forestry": {
+    "summary": "Learn and explore the skills and knowledge related to forestry.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Forestry.pdf"
+  },
+  "Game Design": {
+    "summary": "Learn and explore the skills and knowledge related to game design.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Game_Design.pdf"
+  },
+  "Gardening": {
+    "summary": "Learn and explore the skills and knowledge related to gardening.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Gardening.pdf"
+  },
+  "Genealogy": {
+    "summary": "Learn and explore the skills and knowledge related to genealogy.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Genealogy.pdf"
+  },
+  "Geocaching": {
+    "summary": "Learn and explore the skills and knowledge related to geocaching.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Geocaching.pdf"
+  },
+  "Geology": {
+    "summary": "Learn and explore the skills and knowledge related to geology.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Geology.pdf"
+  },
+  "Golf": {
+    "summary": "Learn and explore the skills and knowledge related to golf.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Golf.pdf"
+  },
+  "Graphic Arts": {
+    "summary": "Learn and explore the skills and knowledge related to graphic arts.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Graphic_Arts.pdf"
+  },
+  "Hiking": {
+    "summary": "Learn and explore the skills and knowledge related to hiking.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Hiking.pdf"
+  },
+  "Home Repairs": {
+    "summary": "Learn and explore the skills and knowledge related to home repairs.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Home_Repairs.pdf"
+  },
+  "Horsemanship": {
+    "summary": "Learn and explore the skills and knowledge related to horsemanship.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Horsemanship.pdf"
+  },
+  "Indian Lore": {
+    "summary": "Learn and explore the skills and knowledge related to indian lore.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Indian_Lore.pdf"
+  },
+  "Insect Study": {
+    "summary": "Learn and explore the skills and knowledge related to insect study.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Insect_Study.pdf"
+  },
+  "Inventing": {
+    "summary": "Learn and explore the skills and knowledge related to inventing.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Inventing.pdf"
+  },
+  "Journalism": {
+    "summary": "Learn and explore the skills and knowledge related to journalism.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Journalism.pdf"
+  },
+  "Kayaking": {
+    "summary": "Learn and explore the skills and knowledge related to kayaking.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Kayaking.pdf"
+  },
+  "Landscape Architecture": {
+    "summary": "Learn and explore the skills and knowledge related to landscape architecture.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Landscape_Architecture.pdf"
+  },
+  "Law": {
+    "summary": "Learn and explore the skills and knowledge related to law.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Law.pdf"
+  },
+  "Leatherwork": {
+    "summary": "Learn and explore the skills and knowledge related to leatherwork.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Leatherwork.pdf"
+  },
+  "Lifesaving": {
+    "summary": "Learn and explore the skills and knowledge related to lifesaving.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Lifesaving.pdf"
+  },
+  "Mammal Study": {
+    "summary": "Learn and explore the skills and knowledge related to mammal study.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Mammal_Study.pdf"
+  },
+  "Medicine": {
+    "summary": "Learn and explore the skills and knowledge related to medicine.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Medicine.pdf"
+  },
+  "Metalwork": {
+    "summary": "Learn and explore the skills and knowledge related to metalwork.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Metalwork.pdf"
+  },
+  "Mining in Society": {
+    "summary": "Learn and explore the skills and knowledge related to mining in society.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Mining_in_Society.pdf"
+  },
+  "Model Design and Building": {
+    "summary": "Learn and explore the skills and knowledge related to model design and building.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Model_Design_and_Building.pdf"
+  },
+  "Motorboating": {
+    "summary": "Learn and explore the skills and knowledge related to motorboating.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Motorboating.pdf"
+  },
+  "Music": {
+    "summary": "Learn and explore the skills and knowledge related to music.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Music.pdf"
+  },
+  "Nature": {
+    "summary": "Learn and explore the skills and knowledge related to nature.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Nature.pdf"
+  },
+  "Nuclear Science": {
+    "summary": "Learn and explore the skills and knowledge related to nuclear science.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Nuclear_Science.pdf"
+  },
+  "Oceanography": {
+    "summary": "Learn and explore the skills and knowledge related to oceanography.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Oceanography.pdf"
+  },
+  "Orienteering": {
+    "summary": "Learn and explore the skills and knowledge related to orienteering.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Orienteering.pdf"
+  },
+  "Painting": {
+    "summary": "Learn and explore the skills and knowledge related to painting.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Painting.pdf"
+  },
+  "Personal Fitness": {
+    "summary": "Learn and explore the skills and knowledge related to personal fitness.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Personal_Fitness.pdf"
+  },
+  "Personal Management": {
+    "summary": "Learn and explore the skills and knowledge related to personal management.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Personal_Management.pdf"
+  },
+  "Pets": {
+    "summary": "Learn and explore the skills and knowledge related to pets.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pets.pdf"
+  },
+  "Photography": {
+    "summary": "Learn and explore the skills and knowledge related to photography.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Photography.pdf"
+  },
+  "Pioneering": {
+    "summary": "Learn and explore the skills and knowledge related to pioneering.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pioneering.pdf"
+  },
+  "Plant Science": {
+    "summary": "Learn and explore the skills and knowledge related to plant science.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Plant_Science.pdf"
+  },
+  "Plumbing": {
+    "summary": "Learn and explore the skills and knowledge related to plumbing.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Plumbing.pdf"
+  },
+  "Pottery": {
+    "summary": "Learn and explore the skills and knowledge related to pottery.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pottery.pdf"
+  },
+  "Programming": {
+    "summary": "Learn and explore the skills and knowledge related to programming.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Programming.pdf"
+  },
+  "Public Health": {
+    "summary": "Learn and explore the skills and knowledge related to public health.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Public_Health.pdf"
+  },
+  "Public Speaking": {
+    "summary": "Learn and explore the skills and knowledge related to public speaking.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Public_Speaking.pdf"
+  },
+  "Pulp and Paper": {
+    "summary": "Learn and explore the skills and knowledge related to pulp and paper.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pulp_and_Paper.pdf"
+  },
+  "Radio": {
+    "summary": "Learn and explore the skills and knowledge related to radio.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Radio.pdf"
+  },
+  "Reading": {
+    "summary": "Learn and explore the skills and knowledge related to reading.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Reading.pdf"
+  },
+  "Reptile and Amphibian Study": {
+    "summary": "Learn and explore the skills and knowledge related to reptile and amphibian study.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Reptile_and_Amphibian_Study.pdf"
+  },
+  "Rifle Shooting": {
+    "summary": "Learn and explore the skills and knowledge related to rifle shooting.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Rifle_Shooting.pdf"
+  },
+  "Robotics": {
+    "summary": "Learn and explore the skills and knowledge related to robotics.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Robotics.pdf"
+  },
+  "Rowing": {
+    "summary": "Learn and explore the skills and knowledge related to rowing.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Rowing.pdf"
+  },
+  "Safety": {
+    "summary": "Learn and explore the skills and knowledge related to safety.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Safety.pdf"
+  },
+  "Salesmanship": {
+    "summary": "Learn and explore the skills and knowledge related to salesmanship.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Salesmanship.pdf"
+  },
+  "Scholarship": {
+    "summary": "Learn and explore the skills and knowledge related to scholarship.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Scholarship.pdf"
+  },
+  "Scouting Heritage": {
+    "summary": "Learn and explore the skills and knowledge related to scouting heritage.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Scouting_Heritage.pdf"
+  },
+  "Scuba Diving": {
+    "summary": "Learn and explore the skills and knowledge related to scuba diving.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Scuba_Diving.pdf"
+  },
+  "Sculpture": {
+    "summary": "Learn and explore the skills and knowledge related to sculpture.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Sculpture.pdf"
+  },
+  "Search and Rescue": {
+    "summary": "Learn and explore the skills and knowledge related to search and rescue.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Search_and_Rescue.pdf"
+  },
+  "Shotgun Shooting": {
+    "summary": "Learn and explore the skills and knowledge related to shotgun shooting.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Shotgun_Shooting.pdf"
+  },
+  "Signs, Signals, and Codes": {
+    "summary": "Learn and explore the skills and knowledge related to signs, signals, and codes.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Signs_Signals_and_Codes.pdf"
+  },
+  "Skating": {
+    "summary": "Learn and explore the skills and knowledge related to skating.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Skating.pdf"
+  },
+  "Small-Boat Sailing": {
+    "summary": "Learn and explore the skills and knowledge related to small-boat sailing.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Small-Boat_Sailing.pdf"
+  },
+  "Snow Sports": {
+    "summary": "Learn and explore the skills and knowledge related to snow sports.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Snow_Sports.pdf"
+  },
+  "Soil and Water Conservation": {
+    "summary": "Learn and explore the skills and knowledge related to soil and water conservation.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Soil_and_Water_Conservation.pdf"
+  },
+  "Space Exploration": {
+    "summary": "Learn and explore the skills and knowledge related to space exploration.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Space_Exploration.pdf"
+  },
+  "Sports": {
+    "summary": "Learn and explore the skills and knowledge related to sports.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Sports.pdf"
+  },
+  "Stamp Collecting": {
+    "summary": "Learn and explore the skills and knowledge related to stamp collecting.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Stamp_Collecting.pdf"
+  },
+  "Surveying": {
+    "summary": "Learn and explore the skills and knowledge related to surveying.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Surveying.pdf"
+  },
+  "Sustainability": {
+    "summary": "Learn and explore the skills and knowledge related to sustainability.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Sustainability.pdf"
+  },
+  "Swimming": {
+    "summary": "Learn and explore the skills and knowledge related to swimming.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Swimming.pdf"
+  },
+  "Textile": {
+    "summary": "Learn and explore the skills and knowledge related to textile.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Textile.pdf"
+  },
+  "Theater": {
+    "summary": "Learn and explore the skills and knowledge related to theater.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Theater.pdf"
+  },
+  "Traffic Safety": {
+    "summary": "Learn and explore the skills and knowledge related to traffic safety.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Traffic_Safety.pdf"
+  },
+  "Truck Transportation": {
+    "summary": "Learn and explore the skills and knowledge related to truck transportation.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Truck_Transportation.pdf"
+  },
+  "Veterinary Medicine": {
+    "summary": "Learn and explore the skills and knowledge related to veterinary medicine.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Veterinary_Medicine.pdf"
+  },
+  "Water Sports": {
+    "summary": "Learn and explore the skills and knowledge related to water sports.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Water_Sports.pdf"
+  },
+  "Weather": {
+    "summary": "Learn and explore the skills and knowledge related to weather.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Weather.pdf"
+  },
+  "Welding": {
+    "summary": "Learn and explore the skills and knowledge related to welding.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Welding.pdf"
+  },
+  "Whitewater": {
+    "summary": "Learn and explore the skills and knowledge related to whitewater.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Whitewater.pdf"
+  },
+  "Wilderness Survival": {
+    "summary": "Learn and explore the skills and knowledge related to wilderness survival.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Wilderness_Survival.pdf"
+  },
+  "Wood Carving": {
+    "summary": "Learn and explore the skills and knowledge related to wood carving.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Wood_Carving.pdf"
+  },
+  "Woodwork": {
+    "summary": "Learn and explore the skills and knowledge related to woodwork.",
+    "pdf": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Woodwork.pdf"
+  }
+}
